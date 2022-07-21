@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://flutter.dev"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/></a>
 <a href="https://dart.dev"><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/></a>
-<a href="#"><img src="https://camo.githubusercontent.com/bade1a981ea28e4692609fb96b97c36f880e3089de921988ff379b690498ad3a/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f6a6176612d636f666665652d6375702d6c6f676f2e706e67" alt="java" width="55" height="55"/></a>
+<a href="https://www.java.com/tr/"><img src="https://camo.githubusercontent.com/bade1a981ea28e4692609fb96b97c36f880e3089de921988ff379b690498ad3a/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f6a6176612d636f666665652d6375702d6c6f676f2e706e67" alt="java" width="55" height="55"/></a>
 <a href="https://developer.android.com"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="45" height="45"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/></a>
