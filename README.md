@@ -1,4 +1,6 @@
 
+<p align=right><img src="https://komarev.com/ghpvc/?username=berkanbinay&style=flat-square&color=blue" alt=""/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi there &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
