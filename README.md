@@ -1,8 +1,8 @@
 
-<p align=right><img src="https://komarev.com/ghpvc/?username=berkanbinay&style=flat-square&color=blue" alt=""/>
+<p align=right><img src="https://komarev.com/ghpvc/?username=berkanbinay&style=flat-square&color=512DA8" alt=""/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20There&fontColor=aaa&animation=fadeIn&type=waving&color=0:512DA8,100:E040FB&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20There&fontColor=aaa&animation=fadeIn&type=waving&color=0:E040FB,100:512DA8&height=100"/>
 </p>
 
 #### <p align=center>I am a computer engineer. I like to read books, watch movies.. Of course I like to write code too 😄<p>
